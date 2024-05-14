@@ -1,5 +1,4 @@
 // Display the data stored in a given graph using the Breadth-First Search algorithm.
-
 #include <iostream>
 #include <list>
 #include <queue>

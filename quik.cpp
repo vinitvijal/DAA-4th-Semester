@@ -1,7 +1,7 @@
 // Write a program to sort the elements of an array using Quick Sort (The program should report the number of comparisons).
-
 #include <iostream>
 using namespace std;
+
 
 int partition(int arr[], int low, int high, int &comparisons)
 {
